@@ -8,7 +8,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 [AirBnB Impact of Regulations](https://www.kaggle.com/code/rohanjosephgeorgeds/airbnb-project)
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSswz3d0cKt3BsE4zxNOizP5PKVV74_rQfVRA&s" width=1000>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6MZIUul7xiSzXGKZkGUZ3Vz-FOwe0jyb9Q&s" width=1000>
 
 ## Overview :
 This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
